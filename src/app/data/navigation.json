@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "link": "/",
+        "linkText": "AgoraLabs"
+    },
+
+    {
+        "id": 2,
+        "linkText": "Prestations",
+        "child": true,
+        "submenu": [
+            {
+                "id": 31,
+                "link": "/cloud",
+                "linkText": "Cloud"
+            },
+            {
+                "id": 33,
+                "link": "/conseil",
+                "linkText": "Conseil"
+            },
+            {
+                "id": 34,
+                "link": "/formations",
+                "linkText": "Formations"
+            }
+        ]
+    },
+
+    {
+        "id": 3,
+        "link": "#",
+        "linkText": "E-learning"
+    },
+
+    {
+        "id": 5,
+        "link": "#",
+        "linkText": "Références"
+    },
+
+    {
+        "id": 5,
+        "link": "/actualites",
+        "linkText": "Actualités"
+    },
+
+    {
+        "id": 6,
+        "link": "/contact",
+        "linkText": "Contact"
+    }
+]
