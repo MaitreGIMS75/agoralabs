@@ -1,12 +1,6 @@
 [
     {
         "id": 1,
-        "link": "/",
-        "linkText": "AgoraLabs"
-    },
-
-    {
-        "id": 2,
         "linkText": "Prestations",
         "child": true,
         "submenu": [
@@ -29,15 +23,21 @@
     },
 
     {
-        "id": 3,
+        "id": 2,
         "link": "#",
         "linkText": "E-learning"
     },
 
     {
-        "id": 5,
+        "id": 3,
         "link": "#",
         "linkText": "Références"
+    },
+
+    {
+        "id": 4,
+        "link": "#",
+        "linkText": "Equipe"
     },
 
     {

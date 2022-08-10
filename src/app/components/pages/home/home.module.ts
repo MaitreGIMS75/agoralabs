@@ -17,10 +17,11 @@ import { ContactComponent } from './contact/contact.component';
 import { FactsComponent } from './facts/facts.component';
 import { BlogpostComponent } from './blogpost/blogpost.component';
 import { BrandsComponent } from './brands/brands.component';
+import { IntrovideoComponent } from './introvideo/introvideo.component';
 
 
 @NgModule({
-  declarations: [HomeComponent, BannerComponent, ServiceComponent, VideoComponent, LatestserviceComponent, WhyusComponent, CasesComponent, TeamComponent, ContactComponent, FactsComponent, BlogpostComponent, BrandsComponent],
+  declarations: [HomeComponent, BannerComponent, IntrovideoComponent ,ServiceComponent, VideoComponent, LatestserviceComponent, WhyusComponent, CasesComponent, TeamComponent, ContactComponent, FactsComponent, BlogpostComponent, BrandsComponent],
   imports: [
     CommonModule,
     HomeRoutingModule,

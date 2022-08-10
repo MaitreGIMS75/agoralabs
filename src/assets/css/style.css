@@ -191,7 +191,7 @@ p {
 }
 .section-title .title::before {
 	position: absolute;
-	content: 'services';
+	content: 'Références';
 	font-size: 180px;
 	font-family: "GilroyBold";
 	font-weight: 700;
@@ -4705,7 +4705,7 @@ PRELOADER
 	left: -20px;
 	width: 0;
 	height: 0;
-	border-bottom: 400px solid #4f9fff;
+	border-bottom: 400px solid #FFFFFF;
 	border-right: 400px solid transparent;
 	z-index: -1;
 }
@@ -8959,6 +8959,7 @@ nav .pagination.pagination-2 li a.active {
 
 .team-member-area {
 	padding-bottom: 120px;
+	padding-top: 120px;
 	overflow: hidden;
 }
 .team-member-area .section-title .title {
