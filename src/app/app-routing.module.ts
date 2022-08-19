@@ -17,6 +17,10 @@ const routes: Routes = [
   { path: 'cloud', loadChildren: () => import('./components/pages/cloud/cloud.module').then(m => m.CloudModule), data: { breadcrumb: 'Cloud' } },
   { path: 'conseil', loadChildren: () => import('./components/pages/conseil/conseil.module').then(m => m.ConseilModule), data: { breadcrumb: 'Conseil' } },
   { path: 'formations', loadChildren: () => import('./components/pages/formations/formations.module').then(m => m.FormationsModule), data: { breadcrumb: 'formations' } },
+
+  //Routes tests pour anchor
+
+  //{ path: 'elearning', loadChildren: () => import('./components/pages/home/introvideo/introvideo.component') },
   
   // Pages
   { path: 'case-study', loadChildren: () => import('./components/pages/case-study/case-study.module').then(m => m.CaseStudyModule), data: { breadcrumb: 'Case Study' } },
