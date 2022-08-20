@@ -42,7 +42,7 @@
 
     {
         "id": 5,
-        "link": "/actualites",
+        "link": "actualites",
         "linkText": "Actualités"
     },
 
