@@ -24,19 +24,19 @@
 
     {
         "id": 2,
-        "link": "#elearning",
+        "link": "elearning",
         "linkText": "E-learning"
     },
 
     {
         "id": 3,
-        "link": "#references",
+        "link": "references",
         "linkText": "Références"
     },
 
     {
         "id": 4,
-        "link": "#equipe",
+        "link": "equipe",
         "linkText": "Equipe"
     },
 
@@ -48,7 +48,7 @@
 
     {
         "id": 6,
-        "link": "#contact",
+        "link": "contact",
         "linkText": "Contact"
     }
 ]
